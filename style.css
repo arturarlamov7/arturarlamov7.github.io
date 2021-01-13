@@ -1,30 +1,35 @@
 *{
 	box-sizing: border-box;
 	margin: 0;
-	padding: 0;
+	padding: 0;	
 }
 
 html {
 	font-family: 'Roboto', sans-serif;
 	font-size: 50px;
-	color: #191970;
+	color: #00BFFF;
 	text-align: center;
+	background: #ADD8E6 ;
+	width: 1920px;
+	height: 1080px;
+	background:url('img/gg.jfif') ;
 }
 
 .container {
-	display: block;
+	display:880px;	
 }
 
 .header {
-	color: #191970;
+	color: #00BFFF;
 
 }
 
 .my_project {
-	display: block;
+	display: table/center;
 	left: 10px;
 }
 
 .my_project a{
 	color: #1E90FF;
 }
+
