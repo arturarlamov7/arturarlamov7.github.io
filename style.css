@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-family: 'Roboto', sans-serif;
+	font-size: 60px;
+	color: #191970;
+}
+
+.container {
+	display: block;
+}
+
+.header {
+	color: #191970;
+
+}
+
+.my_project {
+	display: block;
+	left: 10px;
+}
+
+.my_project a{
+	color: #1E90FF;
+}
