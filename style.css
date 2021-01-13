@@ -6,8 +6,9 @@
 
 html {
 	font-family: 'Roboto', sans-serif;
-	font-size: 60px;
+	font-size: 50px;
 	color: #191970;
+	text-align: center;
 }
 
 .container {
