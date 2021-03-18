@@ -258,8 +258,11 @@ ul li {
  	position: absolute;
 	width: 251px;
 	height: 81px;
-	left: 858px;
+	left: 850px;
 	top: 18px;
+
+	font-size: 36px;
+	line-height: 40px;
 
 	font-family: Roboto;
 	font-style: normal;
